@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+
+.city{
+    padding: 0 25px;
+}
+
+.contanier{
+    width: 70vw;
+    margin: auto;
+}
